@@ -1,5 +1,10 @@
 # Global Financial Dashboard 📈
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://global-finance-dashboard.streamlit.app/)
+*(👉 點擊上方按鈕直接觀看 Live Demo！若您後續有自訂網址，請記得回來更新此連結)*
+
+# Global Financial Dashboard 📈
+
 一個基於 Python (Streamlit) 與 Yahoo Finance API 開發的「全球經濟與金融指標儀表板」。
 本專案主打**「配置驅動 (Configuration-driven)」**，使用者無須修改複雜的 Python 原始碼，只需透過更新 JSON 設定檔，即可動態新增指標、調整分類，並能在互動式 K 線圖上完美對比「重大歷史經濟事件」的影響。
 
