@@ -1,7 +1,7 @@
 {
     "indicators": {
         "美國股票指數": [
-            {"name": "道瓊工業 (^DJI)", "ticker": "^DIA"},
+            {"name": "道瓊工業 (^DJI)", "ticker": "^DJI"},
             {"name": "標普 500 (^GSPC)", "ticker": "^GSPC"},
             {"name": "那斯達克 (^IXIC)", "ticker": "^IXIC"},
             {"name": "費城半導體 (^SOX)", "ticker": "^SOX"},
